@@ -1,5 +1,3 @@
-=======================
-
 Thème Raindow Six Siege Pour Discord
 --------------------------
 Qu'est-ce que c'est ? 
