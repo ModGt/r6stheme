@@ -10,7 +10,7 @@ Copyrights
 --------------------------
 Le thème à entierement été créer par M0dGt.
 Dark Messiah France en à déposé la license copyright avec l'accord de sont créateur (M0dGt)
-Toute copie du code et transformation du thème et interdite, en particulier si la personne qui la édité compte le vendre après.
+Toute copie du code et transformation du thème est interdite, en particulier si l'a personne qui la édité compte le vendre après.
 
 Toute transformation du code par une personne, pourra être poursuivi devant la justice.
 
