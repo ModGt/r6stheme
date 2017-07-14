@@ -29,3 +29,15 @@ Ouvrez le fichier CSS fourni avec ce document,
 Copiez le code (En Entier),
 Allez dans vos paramètres discord, et cliquez sur "Custom CSS"
 Et collez le code (En Entier)
+
+--------------------------
+Quelques aperçu du thème :
+--------------------------
+
+http://image.noelshack.com/fichiers/2017/28/5/1500048914-capture1.png
+http://image.noelshack.com/fichiers/2017/28/5/1500048918-capture2.png
+http://image.noelshack.com/fichiers/2017/28/5/1500048912-capture3.png
+http://image.noelshack.com/fichiers/2017/28/5/1500048913-capture4.png
+http://image.noelshack.com/fichiers/2017/28/5/1500048932-capture5.png
+http://image.noelshack.com/fichiers/2017/28/5/1500048936-capture6.png
+http://image.noelshack.com/fichiers/2017/28/5/1500048920-capture7.png
